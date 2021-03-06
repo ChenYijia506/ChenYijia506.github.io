@@ -1,10 +1,10 @@
 ## Welcome
 
-I am a lecturer at the University of Edinburgh and an Assistant Professor at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
+I am a undergraduate at the University of Edinburgh - Zhejiang University Institute. This is my public github repository. 
 
-[My University of Edinburgh webpage](https://www.ed.ac.uk/profile/robert-young)
+[My Github webpage](https://github.com/ChenYijia506)
 
-You can use the [editor on GitHub](https://github.com/r0bah0lic/r0bah0lic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
